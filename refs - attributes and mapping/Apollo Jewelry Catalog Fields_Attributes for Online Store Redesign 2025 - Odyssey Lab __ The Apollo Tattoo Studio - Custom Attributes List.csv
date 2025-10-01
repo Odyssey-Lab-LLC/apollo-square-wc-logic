@@ -1,0 +1,14 @@
+Product Field / Square Item Attribute,Square Attribute Type,Values Reference
+Featured & Popular,Standard,Standard Attribute Values
+Metal Types,Standard,Standard Attribute Values
+Metal Colors,Standard,Standard Attribute Values
+Gem Shapes,Standard,Standard Attribute Values
+Gems,Standard,Standard Attribute Values
+Shapes & Looks,Standard,Standard Attribute Values
+Jewelry Types,Standard,Standard Attribute Values
+Gauge Size,Standard,Standard Attribute Values
+Gender,Standard,Standard Attribute Values
+Piercing Types,Standard,Standard Attribute Values
+Gem Color,Hidden (API Controlled),Hidden Attributes Value Mappings
+Gem Type,Hidden (API Controlled),Hidden Attributes Value Mappings
+Body Placement,Hidden (API Controlled),Hidden Attributes Value Mappings

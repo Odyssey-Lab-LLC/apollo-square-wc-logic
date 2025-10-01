@@ -10,13 +10,38 @@ A production-ready Node.js application for creating seller-hidden custom attribu
 
 ## Overview
 
-This tool creates 3 seller-hidden custom attributes in your Square catalog:
+This tool provides comprehensive access to Square custom attributes for jewelry stores. The repository includes tools for creating new attributes and managing existing ones, with a complete export of all current custom attribute definitions.
 
-1. **Metal Type** - Type of metal used in jewelry (Gold, Silver, Platinum, etc.)
-2. **Stone Type** - Type of gemstone or stone used (Diamond, Ruby, Emerald, etc.)
-3. **Jewelry Category** - Enhanced category for better filtering (Rings, Necklaces, etc.)
+### Current Square Catalog Attributes
 
-These attributes are hidden from the Square Dashboard but accessible via API, making them perfect for syncing with WooCommerce while keeping the Square interface clean.
+Your Square catalog currently contains **16 custom attributes** (12 seller-visible + 4 hidden):
+
+#### Seller-Visible Attributes (12)
+| Name | ID | Type |
+|------|----|----- |
+| Metal Types | `NYREWQLDG6WNMKIVAMY2OQKG` | SELECTION |
+| Metal Colors | `VOSVYOR4JCR7RLPIZBWRT6QN` | SELECTION |
+| Gem Shapes | `I276TVKCOXGO2YS2M4CQVMHA` | SELECTION |
+| Gems | `F6UUSMPWVIUGLHXAPLHXF3BW` | SELECTION |
+| Shapes & Looks | `2L6ZJ74LJ22M6OXGQLRF3MTB` | SELECTION |
+| Jewelry Types | `A6SRTD4E65ZQXQDMTRKY7PV3` | SELECTION |
+| Featured & Popular | `OCSY37IPUKLHTWQ5QNLIHSI3` | SELECTION |
+| Gauge Size | `KNJIDVEMZEQ3AEDXYYB5XJ3G` | SELECTION |
+| Gender | `4HORMX2H2JWRI6M3YJQVCMFO` | SELECTION |
+| Piercing Types | `ZZKE6MXCPUNTROOPGMOLNM5Q` | SELECTION |
+| Brand | `3APW4IZ3YLVAH5PONUYMLUVU` | SELECTION |
+
+#### Hidden Attributes (4)
+| Name | ID | Type | Description |
+|------|----|----- |------------ |
+| gem_color | `PRFWWXDHHFZWS2JTTUYTWCG4` | SELECTION | Color category of gems for enhanced filtering and automation |
+| gem_type | `OYKQBYMJJU2N3TQXNQGFIQO5` | SELECTION | Type/nature category of gems for enhanced filtering and automation |
+| body_placement | `OFIVVHRC47UE2AWWC3WCXZVN` | SELECTION | Body area/placement category for piercing jewelry filtering and automation |
+| metal_color | `DQYKVSNVL5ZZJVVFYXCBISJS` | SELECTION | Color/finish of metal used in jewelry for enhanced filtering and automation |
+
+> **Machine-Readable Export**: Complete attribute definitions with all selection options are available in `square-attributes-export.json`
+
+These attributes enable comprehensive product categorization and are perfect for syncing with WooCommerce while providing enhanced filtering capabilities.
 
 ## Prerequisites
 

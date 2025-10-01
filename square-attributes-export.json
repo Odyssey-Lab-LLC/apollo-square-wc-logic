@@ -1,0 +1,254 @@
+{
+  "export_info": {
+    "exported_at": "2025-10-01T20:42:00Z",
+    "total_attributes": 16,
+    "seller_visible": 12,
+    "hidden": 4,
+    "source": "Square API v2023-10-18"
+  },
+  "seller_visible_attributes": [
+    {
+      "id": "NYREWQLDG6WNMKIVAMY2OQKG",
+      "name": "Metal Types",
+      "type": "SELECTION",
+      "max_selections": 1,
+      "options": [
+        {"uid": "3Z6IK7XPJBGWMVRZLVMN364B", "name": "14K Gold"},
+        {"uid": "5RRU7FI737Y3TNOYWQOATQXB", "name": "18K Gold"},
+        {"uid": "IPJPPDVIKBUDWBB5ZFZZL4OJ", "name": "950 Platinum"},
+        {"uid": "YQPVTM643MB4LX4EPHKMJXHJ", "name": "Titanium ASTM F136"}
+      ]
+    },
+    {
+      "id": "VOSVYOR4JCR7RLPIZBWRT6QN",
+      "name": "Metal Colors",
+      "type": "SELECTION",
+      "max_selections": 1,
+      "options": [
+        {"uid": "Y7HMZAJ2DXPX4YCDQCMYJYQM", "name": "Rose"},
+        {"uid": "FDZ7WWIE6AWNQH24X6PTPBOP", "name": "White"},
+        {"uid": "YAZTMQNYC4RFV2EGWDNF4L4I", "name": "Yellow"}
+      ]
+    },
+    {
+      "id": "I276TVKCOXGO2YS2M4CQVMHA",
+      "name": "Gem Shapes",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "BGMTKQX5PDZQGXOCFEPRNUZU", "name": "Bullet"},
+        {"uid": "QH3NT5OS72GIT3H2JI5OJWRQ", "name": "Cabochon"},
+        {"uid": "3KLKKTWSFZU32ZDLIQDKTYI4", "name": "Classic Round Brilliant"},
+        {"uid": "GT6K7POFJ5DICBNXKVZETQX5", "name": "Coffin Cut"},
+        {"uid": "EGC3AMVVIGJFJZERVJNEYKKO", "name": "Emerald"},
+        {"uid": "P6PRADKSLWTH2QMI2B5GDGAP", "name": "Faceted Bullet"},
+        {"uid": "FYD5I4GNKQDJKSP7J7QTK5HH", "name": "Half Moon"},
+        {"uid": "TAGTSWJ2AH2FCZZTQRJFRTLK", "name": "Heart"},
+        {"uid": "GQNCIEBDCZ4A2UJ2IANMNBJX", "name": "Kit"},
+        {"uid": "HKREMV4HSVWADN5INAFIEQYJ", "name": "Marquise"},
+        {"uid": "ECL4RUFKJCTBJJUPX6NTIO4T", "name": "Other"},
+        {"uid": "UXV662HKIRHODBU2EJLF2KJY", "name": "Oval"},
+        {"uid": "OFP2SMPZLIHPM4WRZTS4P2YJ", "name": "Pear"},
+        {"uid": "ZDDBNXC3IYI7VWYKZDQAVD4X", "name": "Pennant"},
+        {"uid": "VL27NPBELA66CNZE4ABXXNYA", "name": "Princess"},
+        {"uid": "3MZDC644EFO2URW6V5KDQT6I", "name": "Rose Cut"},
+        {"uid": "HPUCLPG7AQCWF3QW4QVGO3NW", "name": "Square"},
+        {"uid": "IXPKDJVZPDP4FJ3NMTDURLOY", "name": "Straight Baguette"},
+        {"uid": "52KPHH5AAE2EVRPKMXBE46JI", "name": "Tapered Bagutte"},
+        {"uid": "LIN6O4ROJXK3PTOPTL5IQLH7", "name": "Trillion"}
+      ]
+    },
+    {
+      "id": "F6UUSMPWVIUGLHXAPLHXF3BW",
+      "name": "Gems",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "YHPCW7FXNPZ5SXINGJDR4DPH", "name": "Alexandrite"},
+        {"uid": "CEEXG2C3EGTD3DRIXVIR6AXA", "name": "Amythyst"},
+        {"uid": "BYCQWGXP546HCX3TOBPX33VL", "name": "Anastasia Topaz"},
+        {"uid": "5CZPIAXZMIWRHQCDQB2ZN5EY", "name": "Apatie"},
+        {"uid": "XZ7O2NUZSYKE5MKMFMSZVZI3", "name": "Aqua Chalcedony Cabochon"},
+        {"uid": "O533GMCROFXZC34Z3KEJEGK5", "name": "Aquamarine Cabochon"},
+        {"uid": "WRGG4KVLUZYZ4VO2JB5DCYGO", "name": "Baby Pink Diamond"},
+        {"uid": "B2T4PHTVPZF3DPKKXTK4DUA6", "name": "Black Diamond"},
+        {"uid": "2PJFJ3VPG4UR4AJ7FR2YFBEG", "name": "Black Onyx"},
+        {"uid": "A7QHJMF6L5MEYKWZ53GU7TEG", "name": "Ruby"},
+        {"uid": "URP7G3OSWKEMNNUKFKAZT5PB", "name": "White Diamond VS1"},
+        {"uid": "DM5RYSUXIWLWSQJQD7XGCDCV", "name": "White Sapphire"}
+      ]
+    },
+    {
+      "id": "2L6ZJ74LJ22M6OXGQLRF3MTB",
+      "name": "Shapes & Looks",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "ROEOSUOCCR4EDFA6B3326L3T", "name": "Bar End Shapes"},
+        {"uid": "DIZT3UIX4E4AXKYTFIRJMWVF", "name": "Celestial"},
+        {"uid": "JFH5T5NCABWJ7OT53IVUK2KX", "name": "Chains"},
+        {"uid": "Y2UFRFLKOT4ECL5EWA5EDIZF", "name": "Charms"},
+        {"uid": "VASLEPINQ2FGQO7XDIXPQI2Y", "name": "Dagger End Shapes"},
+        {"uid": "ABRYGY75N2H4EMUBFW5V7V5A", "name": "Dangle"},
+        {"uid": "IYELEUUUO46PTOL2DISK5BDG", "name": "Nature"},
+        {"uid": "QNZ47X5HIVH6DGUZ5IHW6JSR", "name": "Statement Pieces"},
+        {"uid": "5CHG4I6LA5TSIOVLU2J75EI2", "name": "Timeless Minimalism"}
+      ]
+    },
+    {
+      "id": "A6SRTD4E65ZQXQDMTRKY7PV3",
+      "name": "Jewelry Types",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "C5BIEXNVWXTK7FDSQNEI4RQN", "name": "C-Curved Barbells"},
+        {"uid": "3SURYUSB5PSQLF4LG6MHJ5OO", "name": "Circular Barbell"},
+        {"uid": "HDWS6W6OE3WT5RHL7J7CAYIM", "name": "Faux Captive Bead Ring"},
+        {"uid": "NQSMUWUVOF5XHYBJK7LKS3EC", "name": "Gemstone Flatback"},
+        {"uid": "3DRQ7MDQYLWFLN3PCZGA43EQ", "name": "Hinged Rings / Clickers"},
+        {"uid": "MYRZQFZ2MRDL26BIFXUIZY6Z", "name": "Int. Threaded Ends / Tops"},
+        {"uid": "6FNJULWXSJWG5UWR56FRAWWX", "name": "Seam Ring"},
+        {"uid": "GWGQRYBNSAASJSFLS32JEBWX", "name": "Straight Barbell"},
+        {"uid": "RYRPP2DQCHMYS6RPUPOM6A5K", "name": "Threadless Ends / Tops"}
+      ]
+    },
+    {
+      "id": "OCSY37IPUKLHTWQ5QNLIHSI3",
+      "name": "Featured & Popular",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "54BRMHVF7R3LNPMEBKBWO63Y", "name": "Best Seller"},
+        {"uid": "DL5AOGZC2QQEAT7YMTWCD6AD", "name": "Category Featured"},
+        {"uid": "GMIRNTOAM2554A2EI2I7CEWC", "name": "Featured"},
+        {"uid": "HATBLTS63LB6DJUSCVIZJAUA", "name": "Popular"}
+      ]
+    },
+    {
+      "id": "KNJIDVEMZEQ3AEDXYYB5XJ3G",
+      "name": "Gauge Size",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "64VBHIMGAU223HY4VVUBOROI", "name": "12 ga."},
+        {"uid": "NT5M7VO43Z6N2OAF7U45V2SF", "name": "14 ga."},
+        {"uid": "PPLJLW7QS4L4A4KCHYLKWJYD", "name": "16 ga."},
+        {"uid": "2FLVS5KXRF7GWYW3OLQ4JCBV", "name": "18 ga."}
+      ]
+    },
+    {
+      "id": "4HORMX2H2JWRI6M3YJQVCMFO",
+      "name": "Gender",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "TABFEAXBG2F2D7ORRYYE74EJ", "name": "Gender Neutral"},
+        {"uid": "I6W2I5H3LRLNH7HPZUMA734X", "name": "Men"},
+        {"uid": "BVRXEIDFB5EYQOR2NO3YNN5J", "name": "Women"}
+      ]
+    },
+    {
+      "id": "ZZKE6MXCPUNTROOPGMOLNM5Q",
+      "name": "Piercing Types",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "2UJHW2SAAKTC6IPPTN2BUOX7", "name": "Earlobe"},
+        {"uid": "FJKYZH7Y3JCKERYJJRNLZN3Z", "name": "Helix"},
+        {"uid": "TOVV2X7LHHPT7FCPEKF57Y4Q", "name": "Forward Helix"},
+        {"uid": "GTZJK2BOOADH3XW6GYEDVGGS", "name": "Conch"},
+        {"uid": "QGTTQ65TTBXA2H2Q2VDKVTIC", "name": "Tragus"},
+        {"uid": "7LCPAH26OSUDNUHJWFWSC3DS", "name": "Rook"},
+        {"uid": "HPPHHVODAPUJEKPAVN4FNUTC", "name": "Daith"},
+        {"uid": "GHQAT6QZGNLD67MQC5RYFCNE", "name": "Industrial"},
+        {"uid": "4BGDN6XNUK7ZL444AVK4755P", "name": "Navel"},
+        {"uid": "5J7GUPX65DLQKU6SY5URVJ6E", "name": "Nipple"}
+      ]
+    },
+    {
+      "id": "3APW4IZ3YLVAH5PONUYMLUVU",
+      "name": "Brand",
+      "type": "SELECTION",
+      "max_selections": 100,
+      "options": [
+        {"uid": "AQPQDBHBD3E7MSYDZCST2GB5", "name": "Anatometal"},
+        {"uid": "QUX6LL2KGR4YGJCGJ3AMGWYE", "name": "BVLA"},
+        {"uid": "ZMMDEMYQ7R5LBJVUFI7HHS4D", "name": "Divinity"},
+        {"uid": "NA73GBDLOPYUQJOWRXEHVGWW", "name": "Industrial Strength ISC"},
+        {"uid": "SJGB3ZROLCPGWJHXQEETK662", "name": "Infinite"},
+        {"uid": "JZ4R2FTBNKS6AWNKRMBORATU", "name": "Junipurr"},
+        {"uid": "KQIGIMFQLLRKSN5VB7BHD4PE", "name": "Kiwi Diamond"},
+        {"uid": "AIM2N7KO74HPD47G3CP7BWUH", "name": "Zadamer"}
+      ]
+    }
+  ],
+  "hidden_attributes": [
+    {
+      "id": "PRFWWXDHHFZWS2JTTUYTWCG4",
+      "name": "gem_color",
+      "type": "SELECTION",
+      "max_selections": 5,
+      "description": "Color category of gems for enhanced filtering and automation",
+      "options": [
+        {"uid": "KASE53VEQ4SCVB4STPKR57Y6", "name": "Purple"},
+        {"uid": "VMRPOQM5JU5F75JQOFGFIDHF", "name": "Blue"},
+        {"uid": "ZJQFEXLCSHDFGSCVX2CPQ5OS", "name": "Aqua"},
+        {"uid": "P7XS72WV3UN7MQAVOFOTNE6M", "name": "Green"},
+        {"uid": "EGDTEXDDDLXJJSONMVU3VUZQ", "name": "Yellow"},
+        {"uid": "RYLN7QI22JF5PUF6QSTSPUDU", "name": "Orange"},
+        {"uid": "3XJ45W7SY5EBXQVJWA64SAD7", "name": "Red"},
+        {"uid": "I37H4QOTPHQ6Q767WBHZ343L", "name": "Pink"},
+        {"uid": "TU45CY5YZSDW4NRA3E7TSXP4", "name": "Black"},
+        {"uid": "UNUPU7I2D32LHK3UA4XYWTVA", "name": "Grey"},
+        {"uid": "6ZJTF5ZN4XCVOCSYIKINVSRJ", "name": "Brown"},
+        {"uid": "TTJVCWIUZV7DMFV27WRADJ5J", "name": "White"}
+      ]
+    },
+    {
+      "id": "OYKQBYMJJU2N3TQXNQGFIQO5",
+      "name": "gem_type",
+      "type": "SELECTION",
+      "max_selections": 3,
+      "description": "Type/nature category of gems for enhanced filtering and automation",
+      "options": [
+        {"uid": "IKQWMXFB5A75EUCLD4LHZ7F7", "name": "Diamond"},
+        {"uid": "RDMP4VL7WII4KGZHYMQJKHGW", "name": "Colored Gemstone"},
+        {"uid": "EBYYNRGO5A6IUQ56HSBZP36F", "name": "Natural Gemstones"},
+        {"uid": "SQGRDMI2IK37LGXKRD76SYGD", "name": "Created Gemstones"}
+      ]
+    },
+    {
+      "id": "OFIVVHRC47UE2AWWC3WCXZVN",
+      "name": "body_placement",
+      "type": "SELECTION",
+      "max_selections": 3,
+      "description": "Body area/placement category for piercing jewelry filtering and automation",
+      "options": [
+        {"uid": "GXXHE43ZCQVJJCZGUFCFK353", "name": "Ear"},
+        {"uid": "7MMKG2QWJ7ZEMWUKLKVLXVJ7", "name": "Face"},
+        {"uid": "BTQW4ULWYDNQU2PWSIV4EBGT", "name": "Nose"},
+        {"uid": "T4RFW7RAPAUGO6EI37EXAHEL", "name": "Oral"},
+        {"uid": "OBZ5WOGWN55J5IELI7Y7YYVQ", "name": "Navel"},
+        {"uid": "Y5C22UXAH32Q6HGKC7NS35GD", "name": "Nipple"},
+        {"uid": "JHWRFJL5RMRZN63UXJNPFF3N", "name": "Surface / Dermal"},
+        {"uid": "H4W5X7PJONA3QQK6BBKFUNPF", "name": "AFAM Genital"},
+        {"uid": "GPU6ZXQOFHNKOM4P5DQMAVCS", "name": "AMAB Genital"}
+      ]
+    },
+    {
+      "id": "DQYKVSNVL5ZZJVVFYXCBISJS",
+      "name": "metal_color",
+      "type": "SELECTION",
+      "max_selections": 1,
+      "description": "Color/finish of metal used in jewelry for enhanced filtering and automation",
+      "options": [
+        {"uid": "QGGZQCHV6IZKJFLNIBUDENK5", "name": "Yellow Gold"},
+        {"uid": "ZMFSOZQBJKAZUV4CWRX4LSDK", "name": "Rose Gold"},
+        {"uid": "DSCONEMGGNRJBAQT54TQRR5H", "name": "White Gold"},
+        {"uid": "E7K6MIRRIZZI772UBUHB4VEO", "name": "Platinum"},
+        {"uid": "JKQMS6CUFUQ3JQDZO52FSF74", "name": "Silver"},
+        {"uid": "XLCQSLF43CHROYNXEMUGTWE6", "name": "Titanium"}
+      ]
+    }
+  ]
+}

@@ -60,6 +60,21 @@ const HIDDEN_ATTRIBUTES = [
       { uid: '#placement_afam_genital', name: 'AFAM Genital' },
       { uid: '#placement_amab_genital', name: 'AMAB Genital' }
     ]
+  },
+  {
+    name: 'metal_color',
+    displayName: 'Metal Color',
+    description: 'Color/finish of metal used in jewelry for enhanced filtering and automation',
+    type: 'SELECTION',
+    maxAllowedSelections: 1,
+    allowedSelections: [
+      { uid: '#metal_yellow_gold', name: 'Yellow Gold' },
+      { uid: '#metal_rose_gold', name: 'Rose Gold' },
+      { uid: '#metal_white_gold', name: 'White Gold' },
+      { uid: '#metal_platinum', name: 'Platinum' },
+      { uid: '#metal_silver', name: 'Silver' },
+      { uid: '#metal_titanium', name: 'Titanium' }
+    ]
   }
 ];
 
@@ -156,10 +171,11 @@ async function main() {
   console.log(`App ID: ${process.env.SQUARE_APPLICATION_ID}`);
   console.log('');
   
-  console.log('📋 Creating 3 hidden attributes for Apollo Jewelry:');
+  console.log('📋 Creating 4 hidden attributes for Apollo Jewelry:');
   console.log('1. gem_color - 12 color categories');
   console.log('2. gem_type - 4 type categories'); 
   console.log('3. body_placement - 9 body area categories');
+  console.log('4. metal_color - 6 metal color/finish options');
   console.log('');
   
   const results = [];

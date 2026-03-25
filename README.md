@@ -320,4 +320,4 @@ SQUARE_LOCATION_ID=your_location_id_here
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [license](everything/clients/The%20Apollo%20Tattoo%20Studio/repositories/Apollo%20Square%20Hidden%20Attributes/node_modules/ms/license.md) file for details.
